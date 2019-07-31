@@ -224,7 +224,7 @@ int main()
 		c2=total(c1);
 		printf("\n   1.    VANILLA CAKE        \t  %d   \t\t\t  rs 350.00   \t\t rs %d.00 ",van,van*350);
 		printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",van*350);
-		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 		printf("\n\n\n\n\n");
 		ret1=return1(ret);
 	    bake(x);
@@ -278,7 +278,7 @@ int main()
 		printf("\n   1.    COCA-COLA (l)       \t  %d   \t\t\t  rs %d.00   \t\t rs %d.00 ",bottel,price,price*bottel);
 		 
 		printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",price*bottel);
-		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 		printf("\n\n\n\n\n");
 		ret1=return1(ret);
 	    bake(x);
@@ -310,7 +310,7 @@ int main()
 		printf("\n   1.    THUMS UP (l)       \t  %d   \t\t\t  rs %d.00   \t\t rs %d.00 ",bottel,price,price*bottel);
 			 
 		printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",price*bottel);
-		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 		printf("\n\n\n\n\n");
 		ret1=return1(ret);
 	    bake(x);
@@ -342,7 +342,7 @@ int main()
 		printf("\n   1.    MAZZA  (s)         \t  %d   \t\t\t  rs %d.00   \t\t rs %d.00 ",bottel,price,price*bottel);
 			 
 		printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",price*bottel);
-		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+		printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 		printf("\n\n\n\n\n");
 		ret1=return1(ret);
 	    bake(x);
@@ -375,7 +375,7 @@ int main()
 		printf("\n   1.    SPRITE  (s)         \t  %d   \t\t\t  rs %d.00   \t\t rs %d.00 ",bottel,price,price*bottel);
 			 
 		printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",price*bottel);
-	    printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	    printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	    printf("\n\n\n\n\n");
 	    ret1=return1(ret);
 	    bake(x);
@@ -423,7 +423,7 @@ int main()
        c2=total(c1); 
        printf("\n   1.        KIT KAT         \t  %d   \t\t\t  rs 20.00   \t\t rs %d.00 ",a,a*20);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",a*20);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -438,7 +438,7 @@ int main()
        c2=total(c1); 
        printf("\n   1.        DAIRY MILK     \t  %d   \t\t\t  rs 20.00   \t\t rs %d.00 ",b,b*20);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",b*20);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -453,7 +453,7 @@ int main()
        c2=total(c1); 
        printf("\n   1.       HIDE & SICK     \t  %d   \t\t\t  rs 30.00   \t\t rs %d.00 ",c,c*30);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",c*30);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -468,7 +468,7 @@ int main()
        c2=total(c1); 
        printf("\n   1.       BOURBON         \t  %d   \t\t\t  rs 30.00   \t\t rs %d.00 ",d,d*30);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",d*30);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -507,7 +507,7 @@ int main()
 	   c2=total(c1);
 	   printf("\n   1.      MIX PUNJABI  \t  %d     \t\t  rs 30.00     \t\t rs %d.00 ",a,a*50);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",a*50);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -521,7 +521,7 @@ int main()
 	   c2=total(c1);
 	   printf("\n   1.      MIX GUJRATI  \t  %d     \t\t  rs 30.00     \t\t rs %d.00 ",b,b*50);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",b*50);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -535,7 +535,7 @@ int main()
 	   c2=total(c1);
 	   printf("\n   1.      MIX TADKA    \t  %d     \t\t  rs 30.00     \t\t rs %d.00 ",c,c*50);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",c*50);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
@@ -549,7 +549,7 @@ int main()
 	   c2=total(c1);
 	   printf("\n   1.      INDIAN MIX   \t  %d     \t\t  rs 30.00     \t\t rs %d.00 ",d,d*50);
        printf("\n\n\t\t\t\t\t\t\t\t\t TOTAL = rs %d.00 ",d*50);
-	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *shashank dubey*");
+	   printf("\n\n\t\t\t\t\t\t\t APPROVED BY : *Suraj*");
 	   printf("\n\n\n\n\n");
 	   ret1=return1(ret);
 	   bake(x);
